@@ -1,0 +1,12 @@
+* 应用名：爱奇艺（台湾版）
+* 应用 ID：com.qiyi.video
+* 应用市场地址：https://play.google.com/store/apps/details?id=com.qiyi.video
+* 公约条款满足情况：
+1. Target SDK version：26
+2. READ_PHONE_STATE 权限：不在启动应用时强制请求。
+3. 交叉唤醒：除用户的主动交互触发外，不会启动其它应用未处于运行中的进程。
+4. 定时任务的最小周期：无周期性小于30min的job。
+5. 外部存储权限：申明了WRITE_EXTERNAL_STORAGE／READ_EXTERNAL_STORAGE权限，但不强制使用。
+
+* 联系方式：xieguo@qiyi.com
+* 补充说明：（如有）
